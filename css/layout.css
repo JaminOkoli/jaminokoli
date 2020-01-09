@@ -1,8 +1,3 @@
-/*
-*	 Author: beshleyua
-*	 Author URL: http://themeforest.net/user/beshleyua
-*/
-
 /* TABLE OF CONTENTS
 	1. Header
 	2. Cards
@@ -213,7 +208,7 @@
 		left: 0;
 		width: 100%;
 		height: 58px;
-		background: #181818;
+		background: #ffffff;
 	}
 
 	.header.opened .top-menu {
@@ -249,7 +244,7 @@
 
 	.header .logo {
 		/* margin: 10px; */
-		width: 40px;
+		width: 45px;
 		height: 40px;
 		float: left;
 	}
@@ -264,7 +259,7 @@
 		top: 58px;
 		margin-top: 0;
 		width: 100%;
-		background: #202020;
+		background: #ffffff;
 		opacity: 0;
 		visibility: hidden;
 		transition: all 0.3s ease 0s;
@@ -316,7 +311,7 @@
 		right: 0;
 		width: 58px;
 		height: 58px;
-		background: #202020;
+		background: #ffffff;
 		cursor: pointer;
 	}
 
